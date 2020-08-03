@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Chris, and I'm a Network Engineer.  Franklin is my nickname.  I've been working with Python for a few years, and I've just started using R.
+
+In networking, I'm focusing on SD-WAN.  Cisco DevNet has great information on that if you want to know more.
+
 <!--
 **Franklin19c/Franklin19c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
