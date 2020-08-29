@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chris, and I'm a Network Engineer.  Franklin is my nickname.  I've been working with Python for a few years, and I've just started using R.
+I'm Chris, and I'm a Network Engineer.  I've been working with Python for a few years, and I've started using R.
 
 Network automation is a great tool that I don't want to go without.  Cisco DevNet has some great learning resources if you're interested in learning more.
 https://developer.cisco.com/startnow/
