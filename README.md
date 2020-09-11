@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Chris, and I'm a Network Engineer.  I've been working with Python for a few years, and I've started using R.
+I'm Chris, and I'm a Network Engineer.  I've been working with Python for a few years.
 
-Network automation is a great tool that I don't want to go without.  Cisco DevNet has some great learning resources if you're interested in learning more.
+Scripting and Network Automation are great tools that I enjoy using.  Cisco DevNet has some great learning resources if you're interested in learning more.
 https://developer.cisco.com/startnow/
 
 <!--
