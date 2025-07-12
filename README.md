@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I'm Chris, and I'm a Network Engineer.  I've been working with Python for a few years.
+I'm Chris, and I'm a Network Engineer.  I enjoy coding where it can help.
 
-Scripting and Network Automation are great tools that I enjoy using.  Cisco DevNet has some great learning resources if you're interested in learning more.
-https://developer.cisco.com/startnow/
+I started with the Cisco DevNet path, but I have since moved to more general Python, a lot of text parsing, and Terraform.
+
+At home, I have a Home Assistant server, and I want to help the community there.
+
+I'm most excited about learning more about machine learning.
 
 <!--
 **Franklin19c/Franklin19c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
