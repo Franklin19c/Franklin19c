@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Chris, and I'm a Network Engineer.  I enjoy coding where it can help.
+I'm Chris (he/him).  I'm a Network Engineer, and I enjoy coding.
 
 I started with the Cisco DevNet path, but I have since moved to more general Python, a lot of text parsing, and Terraform.
 
-At home, I have a Home Assistant server, and I want to help the community there.
-
-I'm most excited about learning more about machine learning.
+I have a Home Assistant server, and I'm a big advocate.
 
 <!--
 **Franklin19c/Franklin19c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
